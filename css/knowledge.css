@@ -119,7 +119,7 @@ nav .fa-solid {
         display: block;
     }
     .nav-links {
-        position: absolute;
+        position: fixed;
         background-color: #4586fe;
         height: 100vh;
         width: 200px;
